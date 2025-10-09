@@ -1,9 +1,37 @@
 body{
     background-color: #d9c593;
+    padding: 0;
+    margin: 0;
 }
 h1{
     color:rgb(8, 28, 85);
 }
 p{
     color:#4d5587
+}
+
+.spice{
+     color: rgb(8, 28, 85);
+    }
+.control{
+    color:brown;
+}
+.past{
+    color:crimson;
+}
+.section{
+    background-color: chocolate;
+}
+
+img{
+    height: 250px;
+    width: auto;
+}
+
+.container{
+    display: flex; 
+    justify-content: center;
+    background-color:brown;
+    height: 80vh;
+    align-items: center;
 }
